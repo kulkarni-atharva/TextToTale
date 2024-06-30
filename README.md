@@ -26,3 +26,6 @@ For generating a video by entering a prompt, use the file **"storyforge-generato
 
 5. **Free Up Storage (Optional):**
    - Run the last cell to delete the video and free up storage if needed.
+   - This will also delete the audio and image files.
+   - Run if you got disconnected in midway.
+   - This will delete the previous instances and avoid overwriting.
